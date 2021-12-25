@@ -13,4 +13,5 @@ long getfilelength(char fname[])：获取文件的长度
 PthServices.h PthServices.cpp
 在BookServices的方法的基础上实现了对图书信息多线程的读取写入。
 
-
+BookView.h BookView.cpp
+实现控制台界面
